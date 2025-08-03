@@ -1,6 +1,6 @@
 from tkinter import *
 import tkinter as tk
-from tkinter i
+from tkinter im
 
 class POS:
     
@@ -715,5 +715,6 @@ if __name__ == '__main__':
     root = Tk()
     application = POS(root)
     root.mainloop()
+
 
 
